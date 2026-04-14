@@ -873,3 +873,9 @@ footer {
   font-size: 1.2rem;
   line-height: 1;
 }
+
+.logo-tag img {
+  width: 1.2rem;
+  height: 1.2rem;
+  object-fit: contain;
+}
